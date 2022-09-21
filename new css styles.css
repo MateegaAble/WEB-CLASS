@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: rgb(255, 0, 13);
+}
+
+body{
+
+background-color: green;
+background-image: url("htmlimage2.jpg");
+}
+
+p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(210, 30, 114);
+}
+ol{
+    color: yellow;
+}
+a{
+    color: red;
+    list-style: none;
+    text-decoration: none;
+}
